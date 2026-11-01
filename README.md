@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartLink – Internet & Networking Solutions
 
 ## Project Overview
@@ -76,3 +77,7 @@ Software Developer | ICT Support Specialist
 ## License
 
 This project is currently developed for learning and business development purposes.
+=======
+# SmartLink
+A web platform offering internet installation services, internet packages, and networking devices across Kenya.
+>>>>>>> 890487139bd7c71e95ca49dc71bba2be700659ad
