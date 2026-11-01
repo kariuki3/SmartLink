@@ -76,4 +76,8 @@ Software Developer | ICT Support Specialist
 
 ## License
 
+<<<<<<< HEAD
 This project is currently developed for learning and business development purposes.
+=======
+This project is currently developed for learning and business development purposes.
+>>>>>>> 2670877039720f2dcf915e2237bd768dd3bff5a8
