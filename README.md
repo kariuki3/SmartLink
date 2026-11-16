@@ -74,16 +74,3 @@ All page interactions and product/package data are combined in one shared file: 
 
 - Telephone / WhatsApp: +254 713 416 938
 - Email: smartkinkconnect254@gmail.com
-
-## Package and Product Pricing
-
-Product prices are indicative demonstration prices informed by publicly listed comparable products from Kenyan online retailers. They are not confirmed SmartLink quotations. Confirm the exact model, availability and final price with SmartLink on WhatsApp before ordering.
-
-
-## Important information to confirm before accepting orders
-
-- Home package names, speeds and monthly prices are shown from the existing site catalogue and remain subject to confirmation by SmartLink.
-- Business package speeds and prices are intentionally shown as requiring confirmation; no values have been invented.
-- Confirm installation fees, installation timelines and coverage for each customer's exact location before promising service.
-- Social media links currently point to the platforms' general home pages. Replace them with SmartLink's official profile URLs when available.
-- The contact email is retained as supplied in the existing website: `smartkinkconnect254@gmail.com`.
